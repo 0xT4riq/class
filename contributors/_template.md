@@ -1,1 +1,1 @@
-I love football and I am learning Git!
+i love AI and technology !
