@@ -15,4 +15,5 @@ When your lecturer merges it, your card appears on the Class Wall. 🎉
 ## Rules
 - File name = your GitHub username + `.md`
 - One line only. Keep it friendly.
-"# class" 
+"# class"
+my name is Alkhattab
